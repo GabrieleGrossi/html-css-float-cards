@@ -25,12 +25,10 @@ h1{
 h2{
     margin: 0.7rem;
     color: white;
-    padding-left: 7.5rem;
 }
 p{
     margin-bottom: 0.7rem;
     color: white;
-    padding-left: 8.2rem;
 }
 main{
     text-align: center;
@@ -40,6 +38,7 @@ main{
 img{
     display: inline-block;
     width: 110px;
+    margin-right: 1rem;
 }
 .float{
     float: left;
@@ -55,5 +54,4 @@ img{
 
 .email{
     color: lightblue;
-    padding-left: 8.2rem;
 }
