@@ -1,0 +1,57 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: comic;
+}
+
+.clearfix::after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+body{
+    padding: 0 10rem;
+}
+
+h1{
+    color: magenta;
+    text-align: center;
+    margin-bottom: 2rem;
+    margin-top: 2rem;
+}
+
+h2{
+    margin-bottom: 1rem;
+    color: white;
+    padding-left: 8rem;
+}
+p{
+    margin-bottom: 1rem;
+    color: white;
+    padding-left: 8rem;
+}
+main{
+    text-align: center;
+    width: 85%;
+    margin: 0 auto;
+}
+img{
+    display: inline-block;
+    width: 110px;
+}
+.float{
+    float: left;
+}
+
+.colonna{
+    width: 33%;
+    background-color: black;
+    text-align: left;
+}
+
+.email{
+    color: lightblue;
+    padding-left: 8rem;
+}
