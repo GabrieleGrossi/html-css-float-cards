@@ -12,7 +12,8 @@
 
 body{
     padding: 0 5rem;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+    font-family: 'Fredoka', sans-serif;
 }
 
 h1{
@@ -31,7 +32,6 @@ p{
     color: white;
 }
 main{
-    text-align: center;
     width: 85%;
     margin: 0 auto;
 }
